@@ -1,5 +1,0 @@
-requests
-smtplib
-ssl
-json
-time
