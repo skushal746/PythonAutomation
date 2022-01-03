@@ -4,6 +4,8 @@ import ssl
 import json
 import time
 
+## The following script is to automate the process of getting vaccination slot. User gets an automated email when the slots are opened.
+
 alwaysTrue = True
 
 print("Script started")
